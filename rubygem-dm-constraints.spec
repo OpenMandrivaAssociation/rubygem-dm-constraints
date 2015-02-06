@@ -5,7 +5,7 @@ Summary:	DataMapper plugin constraining relationships
 Name:		rubygem-%{rbname}
 
 Version:	1.2.0
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://github.com/datamapper/dm-constraints
